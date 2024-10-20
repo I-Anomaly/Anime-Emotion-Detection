@@ -6,7 +6,7 @@ Emotions are a critical part of storytelling and accurate emotion classification
 The goal of this project is to develop a machine learning model (hopefully a CNN) that can classify emotions from anime characters and their images. The model will identify emotions such as happiness, sadness, anger and surprise from a given image. 
 
 **Method: **
-The project will use the Anime Faces Dataset and the Anime Faces Recognition Dataset from Kaggle, which contains a myriad of character images. After that the images will be resized and the Convolutional Neural Network model will be deployed. I have not yet decided to use a pretrained model or train one myself as I will be researching on this further moving on. The models performance will be tested on accuracy and F1 score. 
+The project will use the Anime Faces Dataset and the Anime Faces Recognition Dataset from Kaggle, which contains a myriad of character images. After that the images will be resized and the Convolutional Neural Network model will be deployed. The models performance will be tested on accuracy and F1 score. 
 
 **Usage & Applications: **
 With this classification content creators and animators can streamline their workflow by automatically tagging and organizing animation scenes based on emotional content, saving time and ensuring consistency across large projects. Overall, this system bridges the gap between technical innovation and creative expression, providing valuable insights and tools for both end-users and industry professionals.
